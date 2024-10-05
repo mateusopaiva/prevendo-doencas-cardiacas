@@ -1,4 +1,4 @@
-<h6> Don't speak Portuguese? <a href="https://github.com/mateusopaiva/prevendo-doencas-cardiacas">Click here</a> to view this page in English.</h6>
+<h6> Não fala inglês? <a href="https://github.com/mateusopaiva/prevendo-doencas-cardiacas">Clique aqui</a> para ver essa página em português.</h6>
 
 <h1 align="center">Predicting Heart Disease Risk with Machine Learning</h1>
 
@@ -8,18 +8,18 @@
   <img height="360em" src="https://github.com/user-attachments/assets/0eb6c165-cb24-4e07-9998-12ad28222414" alt="Prevendo risco de doenças cardíacas com Machine Learning">
 </p>
 
-## 📂 Descrição
+## 📂 Description
 In this project, I applied machine learning techniques, using the Random Forest algorithm, to predict the risk of heart disease in a group of patients.
 
 The analysis included the collection and preprocessing of clinical data, allowing the creation of a predictive model capable of identifying risk factors associated with heart disease. This work demonstrates how artificial intelligence can be applied to medicine to support more accurate and effective diagnoses, prevention, and treatment, offering strategic solutions for healthcare.
 
-## 💻 Executando
+## 💻 Running
 ```bash
 cd prevendo-doencas-cardiacas
 jupyter notebook prevendo_doencas_cardiacas_com_machine_learning.ipynb
 ```
 
-## 📝 Estrutura
+## 📝 Structure
 ```bash
 prevendo-doencas-cardiacas/
 │
@@ -33,7 +33,7 @@ prevendo-doencas-cardiacas/
 └── README.md                                                   # Documentation in Portuguese.
 ```
 
-## 📚 Linguagens, dependências e bibliotecas usadas
+## 📚 Languages, dependencies and libraries used
 <div style="display: inline_block">
    
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +43,6 @@ prevendo-doencas-cardiacas/
 
 </div>
           
-## 🙋‍♂️ Desenvolvedores
+## 🙋‍♂️ Developers
 | [<img src="https://avatars.githubusercontent.com/u/106707389?s=400&u=c01ee84b19a35b975ac9634deb3baf48d681a4c5&v=4" width=115><br><sub>Mateus Paiva</sub>](https://github.com/mateusopaiva) | [<img src="https://github.com/mateusopaiva/calculadora/assets/106707389/79e6439c-2110-419b-bdaa-afec6404f65c" width=115><br><sub>Asimov</sub>](https://asimov.academy/)  |
 | :---: | :---: |
